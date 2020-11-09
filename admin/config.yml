@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ok-very/ok-very.github.io/
+  repo: ok-very/ok-very.github.io
   branch: main
   site_domain: pedantic-wozniak-0f9b03.netlify.com
 
